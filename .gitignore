@@ -5,4 +5,4 @@
 #
 # Also, this .gitignore file will be committed.
 
-*.o
+#*.o
