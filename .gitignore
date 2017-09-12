@@ -1,8 +1,8 @@
 # Create this .gitignore file in local repo/folder becomes my local ignore list.
 #
-# It will ignore all listed files/folders/patterns when add to stage and commit,
+# All listed files/folders/patterns will be ignored when add to stage and commit,
 # such that all transient files are not submitted.
 #
 # Also, this .gitignore file will be committed.
 
-#*.o
+*.o
